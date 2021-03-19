@@ -67,7 +67,7 @@ public class EmployeeDirectoryTool extends Application
 			column2.setHgrow(Priority.NEVER);
 			 
 			// Create ComboBox (dropdown)
-			Label departmentLabel = new Label("Department");
+			Label departmentLabel = new Label("Department : ");
 			ComboBox dropdown = new ComboBox();  
 			dropdown.setVisibleRowCount(7);  // Don't let dropdown drop below bottom of application
 			dropdown.getItems().add("Human Resources");		// Populate ComboBox
