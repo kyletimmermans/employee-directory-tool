@@ -10,26 +10,26 @@ Tool to add employees and their information to a directory using JavaFX
 
 ## Overall Layout
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/master/media/overall.png?raw=true" alt="Overall Layout"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/overall.png?raw=true" alt="Overall Layout"/>
 </p>
 
 </br>
 
 ## Dropdown Menu In-Action
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/master/media/dropdown.png?raw=true" alt="Dropdown Menu"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/dropdown.png?raw=true" alt="Dropdown Menu"/>
 </p>
 
 </br>
 
 ## Success Alert
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/master/media/alert.png?raw=true" alt="Success Alert"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/alert.png?raw=true" alt="Success Alert"/>
 </p>
 
 </br>
 
 ## Final Output to File
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/master/media/output.png?raw=true" alt="Final Output to File"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/output.png?raw=true" alt="Final Output to File"/>
 </p>
