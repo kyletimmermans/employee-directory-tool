@@ -8,6 +8,6 @@
 
 Tool to add employees and their information to a directory using JavaFX 
 
-<div>Add more department</div>
+<div>Add more departments</div>
 
 <div>Add pictures of overall layout, dropdown menu, and file output</div>
