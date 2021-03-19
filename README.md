@@ -10,14 +10,14 @@ Tool to add employees and their information to a directory using JavaFX
 
 ## Overall Layout
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/overall.png?raw=true" alt="Overall Layout"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/overall1.png?raw=true" alt="Overall Layout"/>
 </p>
 
 </br>
 
 ## Dropdown Menu In-Action
 <p align="center">
-  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/dropdown.png?raw=true" alt="Dropdown Menu"/>
+  <img src="https://github.com/kyletimmermans/employee-directory-tool/blob/main/media/dropdown1.png?raw=true" alt="Dropdown Menu"/>
 </p>
 
 </br>
