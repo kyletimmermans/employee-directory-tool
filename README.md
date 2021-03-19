@@ -4,6 +4,10 @@
 ![Last Updated](https://img.shields.io/github/last-commit/kyletimmermans/employee-directory-tool?color=success)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
-# employee-directory-tool
+# <div align="center">Employee Directory Tool</div>
 
 Tool to add employees and their information to a directory using JavaFX 
+
+<div>Add more department</div>
+
+<div>Add pictures of overall layout, dropdown menu, and file output</div>
