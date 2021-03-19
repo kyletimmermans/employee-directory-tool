@@ -8,4 +8,4 @@
 
 Tool to add employees and their information to a directory using JavaFX 
 
-<div>Add pictures of overall layout, dropdown menu, and file output</div>
+<div>Add pictures of overall layout, dropdown menu, alert box, and file output</div>
