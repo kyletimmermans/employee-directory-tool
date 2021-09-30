@@ -6,7 +6,7 @@
 
 # <div align="center">Employee Directory Tool</div>
 
-Tool to add employees and their information to a directory using JavaFX 
+<div align="center">Tool to add employees and their information to a directory using JavaFX </div>
 
 ## Overall Layout
 <p align="center">
